@@ -1,2 +1,2 @@
 # Examples
-Examples of projects for knowledge
+Examples of projects for knowledge.
